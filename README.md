@@ -148,22 +148,17 @@ The project strengthened my practical experience in:
 
 📁 Repository Structure
 
-Excelerate-DVA-Team15/
-│
-├── README.md
-│
-├── Week1/
-│   └── Week 1 deliverable
-│
-├── Week2/
-│   └── Data Cleaning & Validation deliverable
-│
-├── Week3/
-│   └── Dashboard & Analytical Report
-│
-├── Week4/
-│   ├── Final Presentation
-│   └── Additional presentation materials
+• Excelerate-DVA-Team15
+• README.md
+• Week1
+• Week 1 deliverable
+• Week2
+• Data Cleaning & Validation deliverable
+• Week3/
+• Dashboard & Analytical Report
+• Week4
+• Final Presentation
+• Additional presentation materials
 
 
 📄 Project Deliverables
