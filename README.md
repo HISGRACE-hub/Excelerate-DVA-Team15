@@ -13,7 +13,6 @@ Role: Data Visualization Associate Intern
 Team: Excelerate DVA Team 15
 Partner Institution: Saint Louis University
 
-⸻
 
 🎯 Project Objective
 
@@ -136,7 +135,6 @@ The project strengthened my practical experience in:
 * Working collaboratively in a remote team
 
 
-
 🛠️ Tools & Technologies
 
 * SQL
@@ -146,7 +144,6 @@ The project strengthened my practical experience in:
 * Microsoft Excel
 * Google Sheets
 * GitHub
-
 
 
 📁 Repository Structure
@@ -187,7 +184,6 @@ Week 4 — Final Presentation
 
 Summarized the project process, findings, recommendations, and overall team work.
 
-⸻
 
 💡 Skills Demonstrated
 
@@ -216,7 +212,6 @@ Business & Communication
 * Team collaboration
 * Remote project communication
 
-⸻
 
 🎓 What This Project Added to My Experience
 
@@ -233,7 +228,6 @@ Data Visualization Associate Remote Internship
 Excelerate × Saint Louis University
 Team 15
 
-⸻
 
 🔗 Repository Contents
 
